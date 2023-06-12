@@ -1,0 +1,14 @@
+{
+    "primary": "#DBFF4A",
+    "secondary": "#004630",
+    "tertiary": "#FF2222",
+    "quaternary": "#F4F5F5",
+    "background": "#EAEAEA",
+    "border": "black",
+    "chevron": "black",
+    "textTitle": "black",
+    "textPrimary": "black",
+    "error": "#D53535",
+    "nav": "25,25,25",
+    "textLogin": "black"
+}
